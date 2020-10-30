@@ -1,4 +1,4 @@
-# [Glassdoor_Scraper_R](https://satheeshkumar-r.github.io/Glassdoor_Scraper_R/) 
+# [Glassdoor_Scraper_R](https://github.com/satheeshkumar-r/Glassdoor_Scraper_R) 
 The goal of this project is to take a look at the current Data Scientist opportunities available in 8 states throughout the United States. The process contains
   *	Understand the website link
   *	Create a list of master links and save it in a csv file
